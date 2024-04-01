@@ -1,0 +1,375 @@
+id	cluster	fustat	stage	age	histology	HRD	BRCAmut	TUMORGRADE	TUMORRESIDUALDISEASE	ProgressionFreeStatus	PlatinumStatus
+2	TCGA-04-1332	High_risk	2	3	70	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+4	TCGA-04-1341	High_risk	1	NA	85	serous	NA	wt	G3	NA	DiseaseFree	Missing
+5	TCGA-04-1343	High_risk	2	4	72	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+6	TCGA-04-1347	High_risk	1	4	81	serous	NA	wt	G3	R0	DiseaseFree	Sensitive
+9	TCGA-04-1361	High_risk	1	3	57	serous	NA	wt	G3	R0	Recurred/Progressed	Missing
+11	TCGA-04-1364	High_risk	2	3	61	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+13	TCGA-04-1514	High_risk	2	3	45	serous	NA	wt	G2	R0	Recurred/Progressed	Sensitive
+15	TCGA-04-1530	High_risk	2	3	68	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+16	TCGA-04-1536	High_risk	2	4	60	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+20	TCGA-04-1655	High_risk	2	3	49	serous	NA	wt	G2	R0	Recurred/Progressed	Sensitive
+21	TCGA-09-0364	High_risk	2	2	80	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+22	TCGA-09-0366	High_risk	2	3	55	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+23	TCGA-09-0367	High_risk	2	3	67	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+24	TCGA-09-0369	High_risk	2	3	56	serous	No	wt	G3	R0	Recurred/Progressed	Resistant
+32	TCGA-09-1669	High_risk	1	3	54	serous	NA	Mut	G3	R0	Recurred/Progressed	Missing
+33	TCGA-09-1670	High_risk	1	3	57	serous	No	wt	G3	R0	Recurred/Progressed	Sensitive
+36	TCGA-09-2045	High_risk	2	4	50	serous	NA	Mut	G2	R1	Recurred/Progressed	Sensitive
+40	TCGA-09-2054	High_risk	2	3	58	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+42	TCGA-10-0927	High_risk	2	3	65	serous	NA	wt	G2	R1	Recurred/Progressed	Sensitive
+45	TCGA-10-0933	High_risk	2	3	77	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+46	TCGA-10-0936	High_risk	2	3	69	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+49	TCGA-13-0714	High_risk	2	4	55	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+50	TCGA-13-0720	High_risk	2	3	48	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+51	TCGA-13-0724	High_risk	2	4	72	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+54	TCGA-13-0727	High_risk	2	3	71	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+55	TCGA-13-0730	High_risk	2	3	71	serous	NA	Mut	G3	Not optimal	Recurred/Progressed	Missing
+57	TCGA-13-0765	High_risk	2	3	50	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+59	TCGA-13-0768	High_risk	2	3	73	serous	NA	wt	G3	R1	DiseaseFree	Missing
+61	TCGA-13-0797	High_risk	1	3	49	serous	NA	wt	G3	R1	DiseaseFree	Missing
+62	TCGA-13-0800	High_risk	1	3	52	serous	No	wt	G3	R0	DiseaseFree	Missing
+63	TCGA-13-0804	High_risk	2	3	73	serous	NA	Mut	G3	R1	Recurred/Progressed	Resistant
+64	TCGA-13-0883	High_risk	2	3	61	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+66	TCGA-13-0885	High_risk	1	3	70	serous	NA	Mut	G3	Not optimal	DiseaseFree	Sensitive
+70	TCGA-13-0891	High_risk	2	4	73	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+71	TCGA-13-0893	High_risk	2	3	48	serous	No	Mut	G3	Not optimal	Recurred/Progressed	Resistant
+78	TCGA-13-0911	High_risk	2	4	55	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+80	TCGA-13-0916	High_risk	1	3	49	serous	No	wt	G3	R0	DiseaseFree	Sensitive
+84	TCGA-13-1403	High_risk	2	3	48	serous	No	wt	G3	NA	DiseaseFree	Sensitive
+86	TCGA-13-1405	High_risk	2	4	49	serous	No	wt	G3	R1	DiseaseFree	Missing
+88	TCGA-13-1408	High_risk	2	3	59	serous	NA	Mut	G3	Not optimal	Recurred/Progressed	Missing
+89	TCGA-13-1409	High_risk	2	3	73	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+90	TCGA-13-1410	High_risk	1	4	57	serous	NA	wt	NA	NA	DiseaseFree	Missing
+98	TCGA-13-1492	High_risk	2	3	66	serous	NA	wt	G3	NA	DiseaseFree	Sensitive
+99	TCGA-13-1495	High_risk	2	3	60	serous	NA	wt	G2	R1	Recurred/Progressed	Sensitive
+100	TCGA-13-1496	High_risk	2	3	65	serous	NA	wt	G3	Not optimal	DiseaseFree	Missing
+101	TCGA-13-1497	High_risk	1	3	47	serous	No	wt	G3	NA	Recurred/Progressed	Sensitive
+102	TCGA-13-1498	High_risk	2	3	73	serous	No	Mut	G3	Not optimal	Recurred/Progressed	Sensitive
+110	TCGA-13-1511	High_risk	2	4	52	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+114	TCGA-20-0987	High_risk	2	3	61	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+116	TCGA-20-1682	High_risk	1	3	56	serous	Yes	wt	NA	Not optimal	DiseaseFree	Sensitive
+119	TCGA-20-1687	High_risk	1	4	46	serous	No	wt	G3	R0	DiseaseFree	Missing
+121	TCGA-23-1022	High_risk	2	3	67	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+122	TCGA-23-1023	High_risk	1	3	65	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+125	TCGA-23-1027	High_risk	2	3	48	serous	No	Mut	G3	R1	Recurred/Progressed	Resistant
+131	TCGA-23-1110	High_risk	1	3	42	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+132	TCGA-23-1111	High_risk	1	3	63	serous	No	wt	G3	Not optimal	DiseaseFree	Missing
+133	TCGA-23-1113	High_risk	2	4	48	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+135	TCGA-23-1116	High_risk	2	3	83	serous	NA	wt	G3	Not optimal	DiseaseFree	Missing
+139	TCGA-23-1122	High_risk	2	3	53	serous	No	Mut	G3	R1	Recurred/Progressed	Sensitive
+141	TCGA-23-1809	High_risk	1	2	63	serous	Yes	wt	G3	R1	DiseaseFree	Missing
+143	TCGA-23-2078	High_risk	1	3	66	serous	NA	Mut	G3	R0	DiseaseFree	Sensitive
+144	TCGA-23-2084	High_risk	2	4	45	serous	No	wt	G3	R0	Recurred/Progressed	Sensitive
+146	TCGA-24-0970	High_risk	2	3	63	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+148	TCGA-24-0982	High_risk	2	3	77	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+150	TCGA-24-1104	High_risk	2	4	56	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+153	TCGA-24-1416	High_risk	1	4	34	serous	No	wt	G3	R1	DiseaseFree	Missing
+155	TCGA-24-1418	High_risk	1	3	68	serous	No	wt	G3	Not optimal	DiseaseFree	Missing
+156	TCGA-24-1419	High_risk	1	3	62	serous	No	wt	G3	Not optimal	DiseaseFree	Missing
+157	TCGA-24-1422	High_risk	2	3	82	serous	NA	wt	G3	R1	DiseaseFree	Missing
+159	TCGA-24-1424	High_risk	1	3	67	serous	No	wt	G3	R1	DiseaseFree	Missing
+160	TCGA-24-1425	High_risk	1	3	45	serous	NA	wt	G3	R1	DiseaseFree	Missing
+161	TCGA-24-1426	High_risk	1	3	43	serous	NA	wt	G3	R1	DiseaseFree	Missing
+162	TCGA-24-1427	High_risk	1	3	58	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+165	TCGA-24-1431	High_risk	2	3	67	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+166	TCGA-24-1434	High_risk	2	3	59	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+171	TCGA-24-1470	High_risk	1	3	54	serous	NA	Mut	G3	R1	DiseaseFree	Missing
+172	TCGA-24-1471	High_risk	1	3	60	serous	NA	wt	G3	Not optimal	DiseaseFree	Missing
+173	TCGA-24-1474	High_risk	2	3	57	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+174	TCGA-24-1544	High_risk	2	3	71	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+177	TCGA-24-1550	High_risk	2	3	49	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+178	TCGA-24-1551	High_risk	2	3	53	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+179	TCGA-24-1552	High_risk	2	3	77	serous	No	wt	G3	R1	Recurred/Progressed	Resistant
+180	TCGA-24-1553	High_risk	2	3	53	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+181	TCGA-24-1557	High_risk	2	3	49	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+182	TCGA-24-1558	High_risk	2	3	73	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+183	TCGA-24-1560	High_risk	2	3	51	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+184	TCGA-24-1562	High_risk	2	3	67	serous	No	Mut	G3	R1	Recurred/Progressed	Resistant
+185	TCGA-24-1563	High_risk	2	3	66	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+187	TCGA-24-1567	High_risk	2	3	54	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+190	TCGA-24-1616	High_risk	2	3	56	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+191	TCGA-24-1842	High_risk	1	3	49	serous	No	wt	G3	R1	DiseaseFree	Missing
+192	TCGA-24-1843	High_risk	1	3	66	serous	No	wt	G3	R1	DiseaseFree	Missing
+196	TCGA-24-1847	High_risk	1	4	45	serous	Yes	wt	G3	R1	DiseaseFree	Missing
+197	TCGA-24-1850	High_risk	1	3	72	serous	No	wt	G3	R1	DiseaseFree	Missing
+198	TCGA-24-1923	High_risk	2	3	51	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+200	TCGA-24-1928	High_risk	2	3	77	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+201	TCGA-24-1930	High_risk	2	3	53	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+202	TCGA-24-2020	High_risk	2	3	67	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+207	TCGA-24-2033	High_risk	2	3	87	serous	No	wt	G3	Not optimal	Recurred/Progressed	Resistant
+208	TCGA-24-2035	High_risk	2	3	65	serous	No	Mut	G3	R1	Recurred/Progressed	Missing
+211	TCGA-24-2254	High_risk	2	3	66	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+213	TCGA-24-2262	High_risk	2	3	57	serous	Yes	wt	G3	R1	Recurred/Progressed	Missing
+214	TCGA-24-2267	High_risk	2	2	58	serous	No	wt	G3	R0	Recurred/Progressed	Missing
+215	TCGA-24-2271	High_risk	2	3	55	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+217	TCGA-24-2281	High_risk	1	2	68	serous	No	wt	G3	R1	DiseaseFree	Missing
+218	TCGA-24-2288	High_risk	2	3	70	serous	No	Mut	G3	Not optimal	Recurred/Progressed	Missing
+219	TCGA-24-2289	High_risk	2	4	68	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+221	TCGA-24-2293	High_risk	2	NA	47	serous	NA	Mut	G3	Not optimal	DiseaseFree	Missing
+223	TCGA-24-2298	High_risk	2	3	55	serous	No	Mut	G3	Not optimal	Recurred/Progressed	Missing
+224	TCGA-25-1312	High_risk	2	4	69	serous	No	wt	G3	R1	DiseaseFree	Missing
+229	TCGA-25-1318	High_risk	2	3	54	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+231	TCGA-25-1320	High_risk	2	3	65	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+233	TCGA-25-1322	High_risk	2	4	62	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+234	TCGA-25-1323	High_risk	2	3	72	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+235	TCGA-25-1326	High_risk	2	3	61	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+237	TCGA-25-1329	High_risk	2	3	76	serous	No	wt	G3	Not optimal	DiseaseFree	Missing
+238	TCGA-25-1623	High_risk	2	4	71	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+239	TCGA-25-1626	High_risk	2	3	65	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+240	TCGA-25-1627	High_risk	2	3	73	serous	NA	wt	G3	R1	DiseaseFree	Missing
+241	TCGA-25-1628	High_risk	2	3	67	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+242	TCGA-25-1630	High_risk	2	3	73	serous	NA	Mut	G3	R1	DiseaseFree	Missing
+243	TCGA-25-1631	High_risk	2	3	73	serous	NA	wt	G3	R1	DiseaseFree	Missing
+244	TCGA-25-1632	High_risk	2	4	68	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+245	TCGA-25-1633	High_risk	2	3	64	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+246	TCGA-25-1634	High_risk	2	3	75	serous	NA	wt	G3	R0	Recurred/Progressed	Resistant
+247	TCGA-25-1635	High_risk	2	3	71	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+249	TCGA-25-1877	High_risk	2	3	81	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+250	TCGA-25-2042	High_risk	2	3	60	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+252	TCGA-25-2392	High_risk	2	4	75	serous	No	Mut	G3	Not optimal	DiseaseFree	Missing
+253	TCGA-25-2393	High_risk	2	3	81	serous	No	wt	G3	Not optimal	Recurred/Progressed	Resistant
+254	TCGA-25-2396	High_risk	2	3	71	serous	No	wt	G3	R0	DiseaseFree	Missing
+256	TCGA-25-2399	High_risk	2	3	80	serous	No	wt	G3	Not optimal	Recurred/Progressed	Resistant
+259	TCGA-25-2404	High_risk	2	3	38	serous	No	Mut	G3	R0	Recurred/Progressed	Sensitive
+260	TCGA-25-2409	High_risk	2	4	71	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+263	TCGA-29-1691	High_risk	2	3	51	serous	No	wt	G2	R1	Recurred/Progressed	Sensitive
+266	TCGA-29-1695	High_risk	2	3	62	serous	No	wt	G2	Not optimal	DiseaseFree	Missing
+269	TCGA-29-1701	High_risk	2	3	56	serous	No	wt	G3	NA	Recurred/Progressed	Resistant
+272	TCGA-29-1707	High_risk	1	2	41	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+273	TCGA-29-1710	High_risk	2	3	54	serous	No	wt	G2	R1	Recurred/Progressed	Missing
+276	TCGA-29-1762	High_risk	2	4	59	serous	Yes	wt	G2	Not optimal	Recurred/Progressed	Sensitive
+282	TCGA-29-1774	High_risk	1	3	82	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+284	TCGA-29-1777	High_risk	1	3	47	serous	NA	wt	G2	Not optimal	Recurred/Progressed	Missing
+285	TCGA-29-1778	High_risk	1	3	77	serous	No	wt	G3	R0	DiseaseFree	Sensitive
+286	TCGA-29-1781	High_risk	1	3	69	serous	No	wt	G3	NA	DiseaseFree	Missing
+293	TCGA-29-2428	High_risk	1	3	58	serous	NA	wt	G3	Not optimal	DiseaseFree	Sensitive
+294	TCGA-29-A5NZ	High_risk	2	3	66	serous	No	wt	NA	NA	NA	NA
+297	TCGA-30-1853	High_risk	2	3	58	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+298	TCGA-30-1857	High_risk	2	4	64	serous	NA	wt	G3	NA	Recurred/Progressed	Missing
+299	TCGA-30-1860	High_risk	2	3	58	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+301	TCGA-30-1862	High_risk	2	4	65	serous	No	wt	G2	Not optimal	Recurred/Progressed	Missing
+303	TCGA-30-1891	High_risk	2	3	61	serous	No	wt	G2	R1	Recurred/Progressed	Resistant
+304	TCGA-30-1892	High_risk	2	3	52	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+308	TCGA-31-1951	High_risk	1	3	58	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+309	TCGA-31-1953	High_risk	1	3	52	serous	No	wt	G3	NA	Recurred/Progressed	Resistant
+311	TCGA-31-1959	High_risk	1	4	49	serous	NA	wt	G2	NA	Recurred/Progressed	Missing
+312	TCGA-36-1568	High_risk	1	3	52	serous	NA	wt	G3	NA	Recurred/Progressed	Sensitive
+318	TCGA-36-1577	High_risk	1	2	43	serous	NA	wt	G2	R0	DiseaseFree	Missing
+320	TCGA-36-1581	High_risk	1	2	63	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+321	TCGA-57-1582	High_risk	2	3	50	serous	NA	Mut	G3	R1	Recurred/Progressed	Missing
+324	TCGA-57-1585	High_risk	2	3	57	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+326	TCGA-57-1993	High_risk	1	3	56	serous	No	wt	G3	R0	DiseaseFree	Missing
+327	TCGA-57-1994	High_risk	1	NA	63	serous	No	wt	NA	NA	NA	Missing
+329	TCGA-59-2350	High_risk	2	4	44	serous	No	wt	G3	R1	Recurred/Progressed	Missing
+331	TCGA-59-2352	High_risk	2	3	78	serous	No	wt	G3	NA	Recurred/Progressed	Missing
+332	TCGA-59-2354	High_risk	2	3	63	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+337	TCGA-61-1721	High_risk	1	4	38	serous	NA	NA	NA	NA	NA	NA
+338	TCGA-61-1724	High_risk	2	3	47	serous	NA	wt	G3	R0	Recurred/Progressed	Missing
+340	TCGA-61-1728	High_risk	1	4	59	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+341	TCGA-61-1733	High_risk	1	3	71	serous	No	wt	G3	R0	Recurred/Progressed	Resistant
+343	TCGA-61-1737	High_risk	1	4	42	serous	NA	wt	G3	R1	DiseaseFree	Sensitive
+345	TCGA-61-1741	High_risk	2	3	76	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+346	TCGA-61-1900	High_risk	1	3	51	serous	No	wt	G3	R0	DiseaseFree	Missing
+348	TCGA-61-1910	High_risk	1	2	56	serous	No	wt	G3	R1	DiseaseFree	Sensitive
+349	TCGA-61-1911	High_risk	1	2	55	serous	NA	wt	G3	NA	Recurred/Progressed	Sensitive
+351	TCGA-61-1918	High_risk	2	4	45	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+353	TCGA-61-1995	High_risk	1	3	43	serous	No	wt	G3	R1	Recurred/Progressed	Missing
+354	TCGA-61-1998	High_risk	1	3	48	serous	No	wt	G3	R1	Recurred/Progressed	Missing
+357	TCGA-61-2003	High_risk	1	3	53	serous	NA	wt	G2	R1	Recurred/Progressed	Missing
+358	TCGA-61-2008	High_risk	1	2	40	serous	No	Mut	G2	R0	Recurred/Progressed	Sensitive
+359	TCGA-61-2009	High_risk	1	3	65	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+360	TCGA-61-2012	High_risk	1	2	81	serous	No	wt	G2	NA	DiseaseFree	Missing
+361	TCGA-61-2088	High_risk	1	3	51	serous	No	wt	G3	R0	DiseaseFree	Missing
+362	TCGA-61-2092	High_risk	1	3	57	serous	No	wt	G3	R0	DiseaseFree	Sensitive
+364	TCGA-61-2098	High_risk	1	3	62	serous	NA	wt	G2	Not optimal	DiseaseFree	Sensitive
+366	TCGA-61-2102	High_risk	2	3	74	serous	No	wt	G3	NA	Recurred/Progressed	Missing
+367	TCGA-61-2104	High_risk	1	2	53	serous	No	wt	G2	R0	Recurred/Progressed	Missing
+372	TCGA-OY-A56Q	High_risk	1	2	78	serous	No	wt	NA	NA	NA	NA
+1	TCGA-04-1331	Low_risk	2	3	78	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+3	TCGA-04-1338	Low_risk	1	3	78	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+7	TCGA-04-1350	Low_risk	2	3	46	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+8	TCGA-04-1356	Low_risk	2	2	62	serous	NA	Mut	G3	NA	Recurred/Progressed	Missing
+10	TCGA-04-1362	Low_risk	2	2	59	serous	No	wt	G3	R1	Recurred/Progressed	Resistant
+12	TCGA-04-1365	Low_risk	1	3	87	serous	NA	wt	G3	NA	Recurred/Progressed	Sensitive
+14	TCGA-04-1519	Low_risk	1	3	48	serous	NA	wt	G3	NA	NA	Missing
+17	TCGA-04-1542	Low_risk	2	3	52	serous	NA	wt	G2	R1	Recurred/Progressed	Sensitive
+18	TCGA-04-1648	Low_risk	2	3	57	serous	NA	wt	G2	R1	Recurred/Progressed	Sensitive
+19	TCGA-04-1651	Low_risk	2	3	53	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+25	TCGA-09-1659	Low_risk	2	3	51	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+26	TCGA-09-1661	Low_risk	2	3	75	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+27	TCGA-09-1662	Low_risk	2	4	58	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+28	TCGA-09-1665	Low_risk	2	3	73	serous	NA	wt	G2	R0	Recurred/Progressed	Sensitive
+29	TCGA-09-1666	Low_risk	1	3	57	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+30	TCGA-09-1667	Low_risk	1	2	61	serous	NA	wt	G2	R0	Recurred/Progressed	Sensitive
+31	TCGA-09-1668	Low_risk	1	3	57	serous	NA	wt	G3	NA	Recurred/Progressed	Missing
+34	TCGA-09-1673	Low_risk	1	4	50	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+35	TCGA-09-2044	Low_risk	1	2	77	serous	No	wt	G3	R0	DiseaseFree	Missing
+37	TCGA-09-2048	Low_risk	2	3	63	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+38	TCGA-09-2051	Low_risk	1	3	42	serous	No	Mut	G3	R0	Recurred/Progressed	Sensitive
+39	TCGA-09-2053	Low_risk	1	3	72	serous	NA	wt	G3	R0	DiseaseFree	Sensitive
+41	TCGA-09-2056	Low_risk	1	3	62	serous	NA	wt	G3	R0	DiseaseFree	Sensitive
+43	TCGA-10-0928	Low_risk	2	3	71	serous	No	wt	G3	R1	Recurred/Progressed	Missing
+44	TCGA-10-0931	Low_risk	2	3	44	serous	NA	Mut	G3	R1	Recurred/Progressed	Resistant
+47	TCGA-10-0937	Low_risk	2	3	44	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+48	TCGA-10-0938	Low_risk	2	3	80	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+52	TCGA-13-0725	Low_risk	2	3	44	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+53	TCGA-13-0726	Low_risk	2	3	55	serous	NA	Mut	NA	R1	Recurred/Progressed	Sensitive
+56	TCGA-13-0762	Low_risk	1	3	65	serous	NA	wt	G3	R0	DiseaseFree	Sensitive
+58	TCGA-13-0766	Low_risk	2	3	42	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+60	TCGA-13-0795	Low_risk	2	3	66	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+65	TCGA-13-0884	Low_risk	2	3	39	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+67	TCGA-13-0886	Low_risk	1	3	67	serous	NA	Mut	G3	R1	DiseaseFree	Sensitive
+68	TCGA-13-0887	Low_risk	2	3	42	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+69	TCGA-13-0888	Low_risk	2	3	78	serous	NA	wt	G3	R0	DiseaseFree	Sensitive
+72	TCGA-13-0897	Low_risk	2	3	54	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+73	TCGA-13-0900	Low_risk	1	3	59	serous	NA	Mut	G3	NA	DiseaseFree	Sensitive
+74	TCGA-13-0901	Low_risk	1	3	41	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+75	TCGA-13-0905	Low_risk	1	3	51	serous	NA	wt	G3	NA	DiseaseFree	Sensitive
+76	TCGA-13-0906	Low_risk	1	3	50	serous	NA	wt	G3	R1	DiseaseFree	Sensitive
+77	TCGA-13-0908	Low_risk	2	4	58	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+79	TCGA-13-0913	Low_risk	1	3	53	serous	No	Mut	G3	R0	Recurred/Progressed	Sensitive
+81	TCGA-13-0920	Low_risk	2	3	65	serous	Yes	wt	G3	R1	Recurred/Progressed	Resistant
+82	TCGA-13-0923	Low_risk	1	3	74	serous	NA	wt	G3	R0	DiseaseFree	Missing
+83	TCGA-13-0924	Low_risk	1	4	45	serous	NA	wt	G3	R1	DiseaseFree	Missing
+85	TCGA-13-1404	Low_risk	1	3	48	serous	NA	wt	G3	R1	DiseaseFree	Missing
+87	TCGA-13-1407	Low_risk	1	3	51	serous	NA	wt	G3	NA	DiseaseFree	Missing
+91	TCGA-13-1411	Low_risk	2	3	81	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+92	TCGA-13-1477	Low_risk	2	4	49	serous	NA	wt	G2	R1	Recurred/Progressed	Resistant
+93	TCGA-13-1483	Low_risk	2	3	61	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+94	TCGA-13-1485	Low_risk	2	4	48	serous	NA	wt	G2	R1	Recurred/Progressed	Resistant
+95	TCGA-13-1487	Low_risk	2	4	74	serous	NA	wt	NA	NA	Recurred/Progressed	Sensitive
+96	TCGA-13-1488	Low_risk	2	4	59	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+97	TCGA-13-1489	Low_risk	2	3	70	serous	Yes	Mut	G2	NA	Recurred/Progressed	Sensitive
+103	TCGA-13-1499	Low_risk	1	3	56	serous	NA	Mut	G3	NA	Recurred/Progressed	Sensitive
+104	TCGA-13-1501	Low_risk	2	4	50	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+105	TCGA-13-1505	Low_risk	1	3	63	serous	No	wt	G3	R1	DiseaseFree	Missing
+106	TCGA-13-1506	Low_risk	2	3	45	serous	No	wt	G3	NA	DiseaseFree	Missing
+107	TCGA-13-1507	Low_risk	2	3	77	serous	No	wt	G3	R1	DiseaseFree	Missing
+108	TCGA-13-1509	Low_risk	1	4	64	serous	NA	wt	G3	R1	DiseaseFree	Missing
+109	TCGA-13-1510	Low_risk	2	3	62	serous	NA	wt	G3	R0	DiseaseFree	Missing
+111	TCGA-13-1512	Low_risk	1	3	49	serous	No	Mut	G3	R0	DiseaseFree	Missing
+112	TCGA-13-2060	Low_risk	1	4	51	serous	No	wt	G3	R1	DiseaseFree	Missing
+113	TCGA-13-A5FT	Low_risk	1	3	67	serous	NA	NA	NA	NA	NA	NA
+115	TCGA-20-0991	Low_risk	1	2	78	serous	NA	wt	G3	R0	DiseaseFree	Missing
+117	TCGA-20-1683	Low_risk	1	3	65	serous	No	wt	G3	R0	Recurred/Progressed	Sensitive
+118	TCGA-20-1686	Low_risk	1	3	75	serous	NA	wt	G3	R0	DiseaseFree	Missing
+120	TCGA-23-1021	Low_risk	2	4	45	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+123	TCGA-23-1024	Low_risk	1	4	52	serous	NA	wt	G3	R1	DiseaseFree	Missing
+124	TCGA-23-1026	Low_risk	1	3	45	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+126	TCGA-23-1028	Low_risk	1	3	43	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+127	TCGA-23-1029	Low_risk	1	3	46	serous	No	wt	G3	R1	DiseaseFree	Sensitive
+128	TCGA-23-1030	Low_risk	1	3	64	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+129	TCGA-23-1107	Low_risk	2	4	59	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+130	TCGA-23-1109	Low_risk	2	3	62	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+134	TCGA-23-1114	Low_risk	2	3	55	serous	Yes	wt	G3	R0	Recurred/Progressed	Sensitive
+136	TCGA-23-1118	Low_risk	1	3	45	serous	NA	Mut	G3	Not optimal	DiseaseFree	Sensitive
+137	TCGA-23-1119	Low_risk	1	3	64	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+138	TCGA-23-1120	Low_risk	1	3	60	serous	NA	Mut	G3	R1	DiseaseFree	Missing
+140	TCGA-23-1123	Low_risk	2	3	59	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+142	TCGA-23-2077	Low_risk	1	3	45	serous	No	Mut	G3	R0	Recurred/Progressed	Sensitive
+145	TCGA-24-0966	Low_risk	1	3	78	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+147	TCGA-24-0979	Low_risk	2	4	53	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+149	TCGA-24-1103	Low_risk	2	3	50	serous	No	Mut	G3	R1	Recurred/Progressed	Sensitive
+151	TCGA-24-1105	Low_risk	2	3	36	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+152	TCGA-24-1413	Low_risk	1	3	51	serous	No	wt	G3	R1	DiseaseFree	Missing
+154	TCGA-24-1417	Low_risk	1	4	54	serous	No	Mut	G3	R1	DiseaseFree	Missing
+158	TCGA-24-1423	Low_risk	1	3	61	serous	No	wt	G3	R1	DiseaseFree	Missing
+163	TCGA-24-1428	Low_risk	1	3	50	serous	No	wt	G3	R1	DiseaseFree	Missing
+164	TCGA-24-1430	Low_risk	2	3	68	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+167	TCGA-24-1435	Low_risk	2	3	57	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+168	TCGA-24-1464	Low_risk	2	3	70	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+169	TCGA-24-1467	Low_risk	2	3	51	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+170	TCGA-24-1469	Low_risk	1	3	71	serous	No	wt	G3	R1	DiseaseFree	Missing
+175	TCGA-24-1546	Low_risk	2	3	46	serous	NA	wt	G3	R1	DiseaseFree	Missing
+176	TCGA-24-1549	Low_risk	2	3	58	serous	NA	wt	G3	NA	Recurred/Progressed	Missing
+186	TCGA-24-1565	Low_risk	2	3	74	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+188	TCGA-24-1603	Low_risk	2	3	53	serous	No	wt	G3	NA	Recurred/Progressed	Missing
+189	TCGA-24-1604	Low_risk	2	3	66	serous	NA	wt	G3	NA	Recurred/Progressed	Missing
+193	TCGA-24-1844	Low_risk	1	3	64	serous	No	wt	G3	R1	DiseaseFree	Missing
+194	TCGA-24-1845	Low_risk	1	3	42	serous	NA	wt	G3	R1	DiseaseFree	Missing
+195	TCGA-24-1846	Low_risk	1	3	45	serous	Yes	wt	G3	R1	DiseaseFree	Missing
+199	TCGA-24-1924	Low_risk	2	3	65	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+203	TCGA-24-2023	Low_risk	2	3	54	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+204	TCGA-24-2024	Low_risk	2	3	72	serous	No	Mut	G3	R1	Recurred/Progressed	Sensitive
+205	TCGA-24-2026	Low_risk	2	3	79	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+206	TCGA-24-2027	Low_risk	2	4	51	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+209	TCGA-24-2036	Low_risk	2	3	50	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+210	TCGA-24-2038	Low_risk	2	3	68	serous	NA	wt	NA	R1	Recurred/Progressed	Missing
+212	TCGA-24-2261	Low_risk	2	3	76	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+216	TCGA-24-2280	Low_risk	1	3	74	serous	NA	Mut	G3	R1	Recurred/Progressed	Sensitive
+220	TCGA-24-2290	Low_risk	2	3	56	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+222	TCGA-24-2297	Low_risk	2	3	56	serous	NA	wt	G3	Not optimal	DiseaseFree	Missing
+225	TCGA-25-1313	Low_risk	2	4	62	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+226	TCGA-25-1315	Low_risk	2	3	50	serous	No	wt	G3	R1	Recurred/Progressed	Resistant
+227	TCGA-25-1316	Low_risk	2	3	55	serous	No	wt	G3	R1	Recurred/Progressed	Resistant
+228	TCGA-25-1317	Low_risk	2	3	66	serous	NA	wt	G3	NA	DiseaseFree	Missing
+230	TCGA-25-1319	Low_risk	2	3	73	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+232	TCGA-25-1321	Low_risk	2	3	65	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+236	TCGA-25-1328	Low_risk	2	3	38	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+248	TCGA-25-1870	Low_risk	2	3	59	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+251	TCGA-25-2391	Low_risk	2	3	57	serous	No	wt	G3	Not optimal	DiseaseFree	Sensitive
+255	TCGA-25-2398	Low_risk	2	3	71	serous	NA	wt	G3	R1	Recurred/Progressed	Sensitive
+257	TCGA-25-2400	Low_risk	2	3	76	serous	No	wt	G3	R0	Recurred/Progressed	Sensitive
+258	TCGA-25-2401	Low_risk	2	3	64	serous	NA	Mut	G3	R1	DiseaseFree	Missing
+261	TCGA-29-1688	Low_risk	2	3	39	serous	No	wt	G2	NA	Recurred/Progressed	Missing
+262	TCGA-29-1690	Low_risk	2	3	66	serous	NA	wt	G2	Not optimal	Recurred/Progressed	Missing
+264	TCGA-29-1693	Low_risk	1	3	72	serous	Yes	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+265	TCGA-29-1694	Low_risk	2	3	45	serous	No	wt	NA	Not optimal	Recurred/Progressed	Missing
+267	TCGA-29-1696	Low_risk	2	3	43	serous	No	wt	G2	R1	Recurred/Progressed	Resistant
+268	TCGA-29-1697	Low_risk	2	3	62	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+270	TCGA-29-1703	Low_risk	2	3	56	serous	No	wt	G2	R1	Recurred/Progressed	Resistant
+271	TCGA-29-1705	Low_risk	2	3	47	serous	No	wt	G2	Not optimal	Recurred/Progressed	Resistant
+274	TCGA-29-1711	Low_risk	1	3	45	serous	No	wt	G2	R0	DiseaseFree	Sensitive
+275	TCGA-29-1761	Low_risk	2	3	80	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+277	TCGA-29-1763	Low_risk	1	2	43	serous	No	wt	G2	R1	Recurred/Progressed	Sensitive
+278	TCGA-29-1766	Low_risk	2	3	74	serous	NA	wt	G2	Not optimal	Recurred/Progressed	Sensitive
+279	TCGA-29-1768	Low_risk	2	4	50	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+280	TCGA-29-1769	Low_risk	1	3	40	serous	NA	wt	G3	R1	DiseaseFree	Sensitive
+281	TCGA-29-1770	Low_risk	1	3	54	serous	No	wt	G2	R1	Recurred/Progressed	Sensitive
+283	TCGA-29-1776	Low_risk	1	3	63	serous	Yes	wt	G3	Not optimal	Recurred/Progressed	Missing
+287	TCGA-29-1783	Low_risk	1	3	58	serous	Yes	wt	G3	NA	DiseaseFree	Missing
+288	TCGA-29-1784	Low_risk	1	3	55	serous	No	wt	G3	NA	DiseaseFree	Missing
+289	TCGA-29-1785	Low_risk	2	3	55	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+290	TCGA-29-2414	Low_risk	2	3	75	serous	NA	wt	G2	Not optimal	Recurred/Progressed	Sensitive
+291	TCGA-29-2425	Low_risk	1	3	60	serous	NA	wt	G2	Not optimal	Recurred/Progressed	Sensitive
+292	TCGA-29-2427	Low_risk	1	3	60	serous	Yes	Mut	G3	Not optimal	Recurred/Progressed	Missing
+295	TCGA-30-1714	Low_risk	2	4	68	serous	NA	wt	G3	R1	Recurred/Progressed	Resistant
+296	TCGA-30-1718	Low_risk	2	3	44	serous	No	wt	G3	R1	Recurred/Progressed	Sensitive
+300	TCGA-30-1861	Low_risk	2	3	74	serous	NA	wt	G3	R1	DiseaseFree	Missing
+302	TCGA-30-1866	Low_risk	2	4	61	serous	NA	wt	G2	R1	Recurred/Progressed	Resistant
+305	TCGA-31-1944	Low_risk	1	3	47	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+306	TCGA-31-1946	Low_risk	1	3	30	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+307	TCGA-31-1950	Low_risk	1	3	76	serous	NA	wt	G2	R1	Recurred/Progressed	Sensitive
+310	TCGA-31-1956	Low_risk	1	3	60	serous	NA	wt	G3	NA	Recurred/Progressed	Missing
+313	TCGA-36-1569	Low_risk	1	3	52	serous	NA	wt	G3	R1	DiseaseFree	Missing
+314	TCGA-36-1570	Low_risk	1	3	49	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+315	TCGA-36-1571	Low_risk	2	3	53	serous	NA	wt	G3	R0	Recurred/Progressed	Sensitive
+316	TCGA-36-1574	Low_risk	1	3	48	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+317	TCGA-36-1576	Low_risk	1	3	76	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+319	TCGA-36-1580	Low_risk	2	3	82	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+322	TCGA-57-1583	Low_risk	2	3	57	serous	NA	wt	G3	R0	Recurred/Progressed	Missing
+323	TCGA-57-1584	Low_risk	1	3	47	serous	NA	wt	G3	R1	Recurred/Progressed	Missing
+325	TCGA-57-1586	Low_risk	1	3	66	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Resistant
+328	TCGA-59-2348	Low_risk	1	3	59	serous	No	Mut	G3	NA	DiseaseFree	Missing
+330	TCGA-59-2351	Low_risk	1	3	51	serous	Yes	Mut	G3	R1	Recurred/Progressed	Missing
+333	TCGA-59-2355	Low_risk	2	4	58	serous	No	wt	G3	Not optimal	Recurred/Progressed	Missing
+334	TCGA-59-2363	Low_risk	1	3	40	serous	Yes	wt	G3	R0	DiseaseFree	Missing
+335	TCGA-59-A5PD	Low_risk	2	1	55	serous	No	wt	NA	NA	NA	NA
+336	TCGA-5X-AA5U	Low_risk	1	2	61	serous	NA	NA	NA	NA	NA	NA
+339	TCGA-61-1725	Low_risk	1	3	40	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+342	TCGA-61-1736	Low_risk	2	3	45	serous	No	wt	G3	NA	Recurred/Progressed	Sensitive
+344	TCGA-61-1738	Low_risk	2	3	60	serous	No	wt	G3	R1	Recurred/Progressed	Resistant
+347	TCGA-61-1907	Low_risk	1	3	63	serous	No	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+350	TCGA-61-1914	Low_risk	1	3	65	serous	Yes	wt	G3	Not optimal	Recurred/Progressed	Sensitive
+352	TCGA-61-1919	Low_risk	2	3	58	serous	No	wt	G2	NA	Recurred/Progressed	Missing
+355	TCGA-61-2000	Low_risk	1	3	67	serous	No	wt	G3	R0	Recurred/Progressed	Resistant
+356	TCGA-61-2002	Low_risk	1	3	46	serous	NA	wt	G3	Not optimal	Recurred/Progressed	Missing
+363	TCGA-61-2097	Low_risk	1	2	71	serous	NA	wt	G2	R1	DiseaseFree	Sensitive
+365	TCGA-61-2101	Low_risk	2	3	55	serous	NA	wt	G2	Not optimal	Recurred/Progressed	Missing
+368	TCGA-61-2109	Low_risk	2	3	40	serous	No	Mut	G3	Not optimal	Recurred/Progressed	Sensitive
+369	TCGA-61-2110	Low_risk	2	3	56	serous	No	wt	NA	R0	Recurred/Progressed	Resistant
+370	TCGA-61-2111	Low_risk	1	4	61	serous	No	wt	G3	NA	Recurred/Progressed	Sensitive
+371	TCGA-61-2113	Low_risk	2	2	53	serous	No	wt	G3	NA	Recurred/Progressed	Sensitive
+373	TCGA-VG-A8LO	Low_risk	2	4	55	serous	NA	NA	NA	NA	NA	NA
+374	TCGA-WR-A838	Low_risk	2	3	72	serous	No	wt	NA	NA	NA	NA
